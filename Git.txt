@@ -1,0 +1,7 @@
+git clone inserte url de github
+para subir algo era
+git add
+git status
+git commit -m "subien tal cosa bla bla"
+git status 
+git push origin main
